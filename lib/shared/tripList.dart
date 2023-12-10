@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:untitled/model/Trip.dart';
 
 import '../screens/details.dart';
-
+//
 class TripList extends StatefulWidget {
   @override
   _TripListState createState() => _TripListState();
